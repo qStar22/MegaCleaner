@@ -1,0 +1,12 @@
+C:\Users\Vasia007\Desktop\Project C#\C#\XCleaner2\obj\Release\MainWindow.baml
+C:\Users\Vasia007\Desktop\Project C#\C#\XCleaner2\obj\Release\MainWindow.g.cs
+C:\Users\Vasia007\Desktop\Project C#\C#\XCleaner2\obj\Release\App.g.cs
+C:\Users\Vasia007\Desktop\Project C#\C#\XCleaner2\obj\Release\MegaCleaner.csproj.GenerateResource.cache
+C:\Users\Vasia007\Desktop\Project C#\C#\XCleaner2\obj\Release\MegaCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Vasia007\Desktop\Project C#\C#\XCleaner2\bin\Release\MegaCleaner.exe.config
+C:\Users\Vasia007\Desktop\Project C#\C#\XCleaner2\bin\Release\MegaCleaner.exe
+C:\Users\Vasia007\Desktop\Project C#\C#\XCleaner2\obj\Release\MegaCleaner_MarkupCompile.cache
+C:\Users\Vasia007\Desktop\Project C#\C#\XCleaner2\obj\Release\MegaCleaner_MarkupCompile.lref
+C:\Users\Vasia007\Desktop\Project C#\C#\XCleaner2\obj\Release\MegaCleaner.g.resources
+C:\Users\Vasia007\Desktop\Project C#\C#\XCleaner2\obj\Release\MegaCleaner.Properties.Resources.resources
+C:\Users\Vasia007\Desktop\Project C#\C#\XCleaner2\obj\Release\MegaCleaner.exe
